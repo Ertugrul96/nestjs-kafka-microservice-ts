@@ -1,12 +1,5 @@
 ## 🌟 NestJS Kafka Microservice Bus (TypeScript)
 
-<p align="center">
-  <a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" width="100" alt="NestJS Logo" /></a>
-</p>
-<p align="center">A progressive Node.js framework for building efficient and scalable server-side applications.</p>
-
----
-
 ### 🎯 Project Vision and Architectural Focus (Ertugrul96)
 
 I developed this project to demonstrate advanced proficiency in building **event-driven microservices** using **NestJS** and **Apache Kafka**. This architecture showcases enterprise-level expertise in highly scalable, decoupled backends.
